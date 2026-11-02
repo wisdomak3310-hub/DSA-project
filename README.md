@@ -6,14 +6,14 @@ this is where i build my first portfolio  while learning at incubator hub
 - 1 this where the work get started
 - please [download here](https://www.microsoft.com)
 
-  ###Eg
+  ### Eg
   ~~~
   select A,B,C,
   
   WHERE A>B
   ~~~
 
-###VISUALIZATION
+### VISUALIZATION
 
 
 
