@@ -12,4 +12,9 @@ this is where i build my first portfolio  while learning at incubator hub
   
   WHERE A>B
   ~~~
+
+  VISUALISATION
+
+
+  
   
